@@ -23,6 +23,6 @@ Code was transformed into an estimator format from the following repository:
 
 Notes: 
 
-I really liked this model due to its simplicity, it is simple to understand and read throught the research paper, so I decided to share the estimator that I created from the original code. Estimators make it easier to deploy tensorflow models, and handle most of the training code for you, so I hope researchers use them more often. 
+I really liked this model due to its simplicity, it is simple to understand and manipulate, the authors do a great job at explaining the details in their paper, so I decided to share the Tensorflow Estimator that I created from the original code. Estimators make it easier to deploy Tensorflow models, and handle most of the training code for you, so I hope researchers use them more often. 
 
-While I was not able to obtain the accuracy highlighted in the paper, it should not stop anyone from trying different things with the model so you can achive a higher accuracy. 
+While I was not able to obtain the accuracy highlighted in the paper, it should not stop anyone from trying different things with the model so you can achieve a higher accuracy.
