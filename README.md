@@ -4,7 +4,7 @@ Entity Aware for Relation Classification Estimator Implementation
 
 # <center> Semantic Relation Classification via Bidirectional LSTM Networks w/ Entity-aware Attention using Latent Entity Typing </center>
 
-# <center> Tensorflow Estimator </center>
+# <center> Tensorflow Estimator Version </center>
 
 This repository contains the official TensorFlow implementation of the following paper:
 
